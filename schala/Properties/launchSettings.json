@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "schala": {
+      "commandName": "Project",
+      "commandLineArgs": "init -h"
+    }
+  }
+}
